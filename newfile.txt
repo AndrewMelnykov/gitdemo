@@ -2,3 +2,5 @@ one
 two
 three
 four
+
+new text for git gui
